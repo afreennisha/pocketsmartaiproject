@@ -1,0 +1,2 @@
+# pocketsmartaiproject
+pocket smart ai
